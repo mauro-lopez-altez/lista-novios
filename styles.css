@@ -5,11 +5,30 @@ body{
 h1{
   font-family: 'Love Ya Like A Sister', cursive;
   color: #FFCDB2;
+  font-size: 5em;
 }
 
 .card-img-top {
   width: 100%;
-  height: 80vh;
+  height: 70vh;
   object-fit: cover;
   }
-  
+
+.img-fluid  {
+  width: 100%;
+  height: 25vh;
+  object-fit: fill;
+}
+
+.card-title{
+  font-family: 'Otomanopee One', sans-serif;
+  font-size: x-large;
+}
+
+.card-text  {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+:hover .btn {
+  color: black;
+}
