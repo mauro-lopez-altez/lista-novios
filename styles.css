@@ -1,10 +1,10 @@
 body{
-  background-color: #6D6875;
+  background-color: #457B9D;
 }
 
 h1{
   font-family: 'Love Ya Like A Sister', cursive;
-  color: #FFCDB2;
+  color: #F1FAEE;
   font-size: 5em;
 }
 
@@ -32,7 +32,12 @@ h1{
 .card {
   border-width: 0.5em;
   border-style: solid;
-  border-color: rosybrown;
+  border-color: #E63946;
   border-radius: 25px;
   padding-left: 5px;
+}
+
+.btn  {
+  background-color: #1D3557;
+  color: #F1FAEE;
 }
